@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "username": "sergiy2025",
+    "email": "sergiy@example.com",
+    "password": "qwerty123",
+    "surname": "Іванов",
+    "name": "Сергій",
+    "is_active": true,
+    "address": {
+        "city": "Kyiv",
+        "street": "Khreshchatyk",
+        "house": 10
+    },
+    "contacts": [
+        "+380991112233",
+        "backup@example.com"
+    ]
+}
