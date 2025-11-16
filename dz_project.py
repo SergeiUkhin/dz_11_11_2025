@@ -42,3 +42,4 @@ loaded_user = SystemUser.model_validate_json(json_content)
 
 # Виводимо у консоль
 print(loaded_user)
+print()
